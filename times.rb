@@ -5,7 +5,6 @@ def using_times
 end
 
 tiny_bananas = 100
-
 7.times do
   puts "Taking away seven tiny bananas"
   tiny_bananas = tiny_bananas - 7

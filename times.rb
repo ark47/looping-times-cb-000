@@ -3,3 +3,9 @@ def using_times
     puts "Wingardium Leviosa"
   end
 end
+
+tiny_bananas = 100
+
+7.times do
+  puts "Taking away seven tiny bananas"
+end
